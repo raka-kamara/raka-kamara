@@ -1,4 +1,4 @@
-<img align="center" src="./images/Frame 1.svg" />
+<img align="center" src="./images/Frame 1.png" />
 
 <br />
 
